@@ -1,0 +1,10 @@
+Total number of constituencies: 4
+State with the highest number of constituencies: <h2>Parliamentary
+                    Constituencies</h2> (4)
+Average number of constituencies per state: 4.00
+List of states and their number of constituencies:
+<h2>Parliamentary
+                    Constituencies</h2>: 4
+<h2>Andhra Pradesh</h2>: 4
+<h2>Odisha</h2>: 4
+<h2>Bye Elections</h2>: 4
